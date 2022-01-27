@@ -50,4 +50,5 @@
 </h1>
 
 my-profile is open-source profile licensed under the MIT General Public License v1.0. created by [@DR-Nitrogen7](https://github.com/DR-Nitrogen7).
+
 -Thanks to my dear friend for debugging [@im-parsa](https://github.com/im-parsa)!
