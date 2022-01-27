@@ -55,7 +55,7 @@ body{
 .photo{
     height: 100%;
     width: 100%;
-    background: url(me.jpg);
+    background: url(image/me.jpg);
     background-size: 100% 100%;
     position: absolute;
     bottom: 0;
