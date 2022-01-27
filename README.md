@@ -1,4 +1,4 @@
-<img src="image/Profile ScreenShot.png" alt="Header Image" width="500">
+<img src="https://cdn.discordapp.com/attachments/914790228714221568/936296370271301693/Profile_ScreenShot.png" alt="Header Image" width="500">
 <div align="center">
     <h4 align="center"><samp> DR_Nitrogen Profile</samp></h4>
 </div>
