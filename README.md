@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/914790228714221568/936296370271301693/Profile_ScreenShot.png" alt="Header Image" width="500">
+<img src="image/Profile ScreenShot.png" alt="Header Image" width="500" class="center" style="display: block;margin-left: auto;margin-right: auto;width: 50%;">
 <div align="center">
     <h4 align="center"><samp> DR_Nitrogen Profile</samp></h4>
 </div>
@@ -50,4 +50,4 @@
     ⚠️ License & 📝 Credits
 </h1>
 
-DR_Nitrogen-Profile is open-source profile licensed under the MIT General Public License v1.0. created by [@DR-Nitrogen7](https://github.com/DR-Nitrogen7).
+my-profile is open-source profile licensed under the MIT General Public License v1.0. created by [@DR-Nitrogen7](https://github.com/DR-Nitrogen7).
