@@ -1,5 +1,4 @@
-<a href="https://ashkan-sharafie.ir/profile/"><img src="https://ashkan-sharafie.ir/image/Profile%20ScreenShot.png" alt="Header Image" width="500" class="center" style="display: block;margin-left: auto;margin-right: auto;width: 50%;"></a>
-<div align="center">
+<a href="https://ashkan-sharafie.ir/profile/"><img src="image/Profile ScreenShot.png" alt="Header Image" width="500" class="center" style="display: flex;margin-left: auto;margin-right: auto;width: 50%;"></a>
     <h4 align="center"><samp> DR_Nitrogen Profile</samp></h4>
 </div>
 <p align="center">
