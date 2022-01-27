@@ -35,9 +35,9 @@
 </h1>
 
 <div align="center">
-    <img src="https://img.shields.io/badge/JavaScript-1c1d29?style=for-the-badge&logo=javascript&logoColor=e82c2c" alt="JavaScript" style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/HTML5-1c1d29?style=for-the-badge&logo=html5&logoColor=e82c2c" alt="HTML5" style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/CSS3-1c1d29?style=for-the-badge&logo=css3&logoColor=e82c2c" alt="CSS3" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/JavaScript-1c1d29?style=for-the-badge&logo=javascript&logoColor=281cb3" alt="JavaScript" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/HTML5-1c1d29?style=for-the-badge&logo=html5&logoColor=281cb3" alt="HTML5" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/CSS3-1c1d29?style=for-the-badge&logo=css3&logoColor=281cb3" alt="CSS3" style="border-radius:15px"/>
 </div>
 <h1 align="center">
    🤝 Contributing
