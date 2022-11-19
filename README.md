@@ -1,12 +1,12 @@
 <a href="https://ashkan-sharafie.ir/profile/"><img src="image/Profile ScreenShot.png" alt="Header Image" align="center" style="width:50;"></a>
     <h4 align="center"><samp> Stars Profile </samp></h4>
 </div>
-<-- <p align="center">
+<!-- <p align="center">
     All of my projects are available at <a href="https://ashkan-sharafie.ir" target="_follow" title="Ashkan Sharafie">https://ashkan-sharafie.ir</a>
 </p>
 <p align="center">My Profile</p>
 
-<br/> !-->
+<br/> -->
 
 <p align="center">
     <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/DR-Nitrogen7/DR_Nitrogen-Profile">
@@ -49,6 +49,6 @@
     ⚠️ License & 📝 Credits
 </h1>
 
-my-profile is open-source profile licensed under the MIT General Public License v1.0. created by [@DR-Nitrogen7](https://github.com/DR-Nitrogen7).
+Stars profile is open-source profile licensed under the MIT General Public License v1.0. created by [@AshkanSharafi](https://github.com/AshkanSharafi).
 
 -Thanks to my dear friend for debugging [@im-parsa](https://github.com/im-parsa)!
